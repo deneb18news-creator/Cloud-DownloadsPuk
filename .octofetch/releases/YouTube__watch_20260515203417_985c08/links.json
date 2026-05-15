@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1738",
+  "folder": "YouTube__watch_20260515203417_985c08",
+  "base_name": "Every_Price_Move_Has_a_Purpose_Here_s_How_to_Read_It_EXiiTLTYUYg_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/deneb18news-creator/Cloud-DownloadsPuk/releases/tag/co-releases-v1-1738",
+  "files": [
+    {
+      "name": "Every_Price_Move_Has_a_Purpose_Here_s_How_to_Read_It_EXiiTLTYUYg_720p.mp4",
+      "url": "https://github.com/deneb18news-creator/Cloud-DownloadsPuk/releases/download/co-releases-v1-1738/Every_Price_Move_Has_a_Purpose_Here_s_How_to_Read_It_EXiiTLTYUYg_720p.mp4",
+      "api_url": "https://api.github.com/repos/deneb18news-creator/Cloud-DownloadsPuk/releases/assets/420911216",
+      "id": 420911216,
+      "size": 75538095,
+      "download_count": 0
+    }
+  ]
+}
